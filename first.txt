@@ -1,1 +1,5 @@
-gd2
+#include <stdio.h>
+int main()
+{
+  printf("깃허브 조낸 어렵네..");
+}
